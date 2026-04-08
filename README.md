@@ -1,4 +1,6 @@
-# Computer-
-This is my first Git repository 
+# Computer
+
+Thismy Gitrepository 
 <br>
-Author- Victorcarlosara 
+ Victor(Computer)
+ 
